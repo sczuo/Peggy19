@@ -1,12 +1,24 @@
-name: National Health Interview Survey - Families - 2012
+name: National Health Interview Survey - Families - 2010
+      National Health Interview Survey - Families - 2011
+      National Health Interview Survey - Families - 2012
+      National Health Interview Survey - Households - 2010
+      National Health Interview Survey - Households - 2011
       National Health Interview Survey - Households - 2012
       National Health Interview Survey - Persons - 2012
+      National Health Interview Survey - Injury Episodes - 2010
+      National Health Interview Survey - Injury Episodes - 2011
       National Health Interview Survey - Injury Episodes - 2012
      
-Description: The datasets collects info about the family, household, and person in 2012. The information in this section includes but is not limited to basic demographic family information such as number of children and seniors, health issues amongst any family members, medical treatment and providers, income and employment, and financial assistance. We aimed to find the percentage of families which have poor health members like ADL, work limitation and memory problem. Also, we can study the distribution of health level, like excellent health, good health, fair health and poor health.
+Description: The datasets collects info about the family, household, and person in 2010-2012. The information in this section includes but is not limited to basic demographic family information such as number of children and seniors, health issues amongst any family members, medical treatment and providers, income and employment, and financial assistance. We aimed to find the percentage of families which have poor health members like ADL, work limitation and memory problem. Also, we can study the distribution of health level, like excellent health, good health, fair health and poor health.
 
-Source: https://public.enigma.com/datasets/national-health-interview-survey-families-2012/3b7f4ae6-eb14-43d0-b4e0-1799b9ef8b92
+Source: https://public.enigma.com/datasets/national-health-interview-survey-families-2010/bad24beb-a9b9-4278-a330-55841bac2b80
+        https://public.enigma.com/datasets/national-health-interview-survey-families-2011/7d294555-db58-4ed2-b377-14cf4e39148e
+        https://public.enigma.com/datasets/national-health-interview-survey-families-2012/3b7f4ae6-eb14-43d0-b4e0-1799b9ef8b92
+        https://public.enigma.com/datasets/national-health-interview-survey-households-2010/579f6736-af7c-40bf-928a-9bb17b10f450
+        https://public.enigma.com/datasets/national-health-interview-survey-households-2011/ca8c1377-644c-47d4-903b-b15a2fb2ca1b
         https://public.enigma.com/datasets/national-health-interview-survey-households-2012/efef96fe-0997-4bb7-a29c-665ec145ca31
+        https://public.enigma.com/datasets/national-health-interview-survey-injury-episodes-2010/4cc433de-82fe-4854-a83e-0048d0412881
+        https://public.enigma.com/datasets/national-health-interview-survey-injury-episodes-2011/84e480eb-3a0c-4157-999e-41cac1ff3282
         https://public.enigma.com/datasets/national-health-interview-survey-injury-episodes-2012/42278a7b-c90c-464f-bb41-45e5f2c2e96d
         https://public.enigma.com/datasets/persons-2012/7f824984-adcb-4fb9-a481-00ecd3d9f0cb
       
